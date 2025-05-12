@@ -1,1 +1,2 @@
-console.log("¡Hola Git!");
+console.log("¡Hola Git, estamos aprendiendo mucho!");
+console.log("¡Lemon Code!");
