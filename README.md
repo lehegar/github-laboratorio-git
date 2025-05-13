@@ -53,3 +53,12 @@ Y aquí realicé el push para subir los cambios a GitHub.
 
 ![Captura](capturas/11.png)
 ![Captura](capturas/12.png)
+
+---
+
+Extra:
+
+Conflictos:
+
+
+
