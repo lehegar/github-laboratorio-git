@@ -30,6 +30,26 @@ Aquí creé un archivo llamado README y lo hice commit. También añadí un READ
 
 4. Crear una rama
 
+Aquí creé una rama llamada development.
+![Captura](capturas/6.png)
 
+Le añadí también un archivo .txt.
+![Captura](capturas/7.png)
+
+Después lo subí al repositorio en GitHub.
+![Captura](capturas/8.png)
 
 5. Hacer un merge
+
+En esta captura se muestra cómo añadí nuevos archivos a la rama development, con el objetivo de hacer un merge con la rama master.
+
+![Captura](capturas/9.png)
+
+Aquí hice un commit en local.
+
+![Captura](capturas/10.png)
+
+Y aquí realicé el push para subir los cambios a GitHub.
+
+![Captura](capturas/11.png)
+![Captura](capturas/12.png)
