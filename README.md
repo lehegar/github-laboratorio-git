@@ -26,3 +26,10 @@ Aquí creé un archivo llamado README y lo hice commit. También añadí un READ
 ![Captura](capturas/4.png)
 
 ![Captura](capturas/5.png)
+
+
+4. Crear una rama
+
+
+
+5. Hacer un merge
